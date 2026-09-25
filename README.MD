@@ -6,7 +6,7 @@
 
 This **Hospitality Revenue & Performance Dashboard** was built in **Power BI** to analyze hotel booking performance and provide actionable insights into **revenue, occupancy, room utilization, booking platforms, and property performance**.
 
-The project uses a real-world hospitality dataset containing hotel properties, room categories, booking information, revenue, booking platforms, ratings, and daily capacity.
+The project is uses a real-world hospitality dataset containing hotel properties, room categories, booking information, revenue, booking platforms, ratings, and daily capacity.
 
 The dashboard brings all of this information into a single interactive interface, allowing users to analyze hotel performance across **cities, property categories, room classes, and time periods**.
 
